@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+.idea/
+__pycache__/
+ckpts/
+data/
+pointcloud/
+logs/
+wireframe_fitting/ChamferDistancePytorch/tmp/
